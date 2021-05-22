@@ -29,4 +29,7 @@ Port Hamiltonian model constructors:
 | [Model 1](Modeltype41.m)| 1 | C:20 L:20 | git status    | git status    | git status    |
 | [Model 2](Modeltype41.m)| 1 | C:20 L:20 | git status    | git status    | git status    |
 
+### The Paper can be downloaded here
+
+[IDP by Pancras Hogendoorn](Reductionoflarge_scaleelectricalmodels (1).pdf)
 
