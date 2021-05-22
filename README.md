@@ -3,9 +3,10 @@
 This site contian the MATLAB code from the Intergrated design project of P.H.W. Hogendoorn. As wel ass the simulink model used to simulate the reduced order models and all data sets generated and used for validating the theoretifcal framework by Borja, Scherpen and fojimoto for extanded balanced truncation.
 
 
-### Markdown
+### Matlab models
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here all MATLAB models used for the intergration project can be found
+- [Model type 1](Modeltype43.m)
 
 ```markdown
 Syntax highlighted code block
