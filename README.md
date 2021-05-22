@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Buildup of this web site
 
-You can use the [editor on GitHub](https://github.com/PHW-H/IDP_extended_balanced_truncation/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This site contian the MATLAB code from the Intergrated design project of P.H.W. Hogendoorn. As wel ass the simulink model used to simulate the reduced order models and all data sets generated and used for validating the theoretifcal framework by Borja, Scherpen and fojimoto for extanded balanced truncation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
