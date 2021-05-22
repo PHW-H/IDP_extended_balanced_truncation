@@ -37,4 +37,4 @@ Port Hamiltonian model constructors:
 
 ### The Paper can be downloaded here
 
-[IDP by Pancras Hogendoorn](Reductionoflarge_scaleelectricalmodels (1).pdf)
+[IDP by Pancras Hogendoorn](Reductionoflarge_scaleelectricalmodels.pdf)
