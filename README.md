@@ -24,7 +24,7 @@ Port Hamiltonian model constructors:
 
 ### Used Models and results
 | Model download | Model Type | Model dimentions | Deviation from orgional General | Deviation from orgional extended | Simulink result |
-| :---           |     :---:      |     :---:      |     :---:      |     :---:     |           ---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | [Model 1](Modeltype41.m)| 1 | C:20 L:20 | git status    | git status    | git status    |
-| [Model 1](Modeltype41.m)| git diff       | git diff      | git status    | git status    | git status    |
+| [Model 2](Modeltype41.m)| 1 | C:20 L:20 | git status    | git status    | git status    |
 
