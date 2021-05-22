@@ -19,7 +19,7 @@ Port Hamiltonian model constructors:
 
 ### Simulink Model 
 
-- [Main Matlab Model](RLC_system_Pancras_version.m)
+- [Simulink Model](balanced_modelreduction_rlc.slx)
 
 ### Used Models and results
 
