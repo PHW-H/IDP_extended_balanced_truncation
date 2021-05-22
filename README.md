@@ -1,7 +1,6 @@
 ## Buildup of this web site
 
-This site contian the MATLAB code from the Intergrated design project of P.H.W. Hogendoorn. As wel as the simulink model used to simulate the reduced order models and all data sets generated and used for validating the theoretifcal framework by Borja, Scherpen and fojimoto for extanded balanced truncation.
-
+This site contains the MATLAB code from the Integrated design project of P.H.W. Hogendoorn. As well as the Simulink model used to simulate the reduced-order models and all data sets generated and used for validating the theoretical framework by Borja, Scherpen, and Fujimoto for extended balanced truncation.
 
 ### Matlab Models
 
