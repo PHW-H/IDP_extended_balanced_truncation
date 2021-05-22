@@ -29,10 +29,10 @@ Port Hamiltonian model constructors:
 | [Model 2](Model_2.m)| 1 | step 50 | 25% | C:40 L:40 | 2.1235e-5 | 0 | [Image](Model_2.png) |
 | [Model 3](Model_3.m)| 1 | step 50 | 25% | C:60 L:60 | 2.1920e-5 | 5.4210e-20 | [Image](Model_3.png) |
 | [Model 4](Model_4.m)| 1 | sinusoidal | 25% | C:40 L:40 | 3.7724e-4 | 2.1684e-18 | [Image](Model_4.png) |
-| [Model 5](Model_5.m)| 1 | step 50 | 50% | C:20 L:20 | 4.3211e-04 | 5.7762e-13 | [Image](Model_5.png) |
-| [Model 6](Model_6.m)| 1 | step 50 | 50% | C:40 L:40 | 7.2875e-04 | 6.7763e-21 | [Image](Model_6.png) |
+| [Model 5](Model_5.m)| 1 | step 50 | 50% | C:20 L:20 | 4.3211e-4 | 5.7762e-13 | [Image](Model_5.png) |
+| [Model 6](Model_6.m)| 1 | step 50 | 50% | C:40 L:40 | 7.2875e-4 | 6.7763e-21 | [Image](Model_6.png) |
 | [Model 7](Model_7.m)| 1 | sinusoidal | 50% | C:40 L:40 | 2.1920e-5 | 1.0842e-19 | [Image](Model_7.png) |
-| [Model 8](Model_8.m)| 1 | sinusoidal | 25% | C:40 L:40 | 3.7724e-4 | 1.0842e-19 | [Image](Model_8.png) |
+| [Model 8](Model_8.m)| 1 | sinusoidal | 25% | C:100 L:100 | 5.7047e-4 | 4.3368e-19 | [Image](Model_8.png) |
 
 ### The Paper can be downloaded here
 
