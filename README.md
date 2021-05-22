@@ -24,7 +24,7 @@ Port Hamiltonian model constructors:
 ### Used Models and results
 
 | Model download | Model Type | input | Reduction |  Model dimentions | Deviation from orgional General | Deviation from orgional extended | Simulink result |
-| :---: | :---: | :---: | :---: | :---: | :-------: | :-------: |
+| :---: | :---: | :---: | :---: | :---------: | :---------: | :-----: |
 | [Model 1](Model_1.m)| 1 | step 50 | 25% | C:20 L:20 | 1.6685e-7 | 0 | [Image](Model_1.png) |
 | [Model 2](Model_2.m)| 1 | step 50 | 25% | C:40 L:40 | 2.1235e-5 | 0 | [Image](Model_2.png) |
 | [Model 3](Model_3.m)| 1 | step 50 | 25% | C:60 L:60 | 2.1920e-5 | 5.4210e-20 | [Image](Model_3.png) |
