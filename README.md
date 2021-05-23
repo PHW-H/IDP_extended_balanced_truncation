@@ -34,6 +34,27 @@ Port Hamiltonian model constructors:
 | [Model 6](Model_6.m)| 1 | step 50 | 50% | C:40 L:40 | 7.2875e-4 | 6.7763e-21 | [Image](Model_6.png) |
 | [Model 7](Model_7.m)| 1 | sinusoidal | 50% | C:40 L:40 | 2.1920e-5 | 1.0842e-19 | [Image](Model_7.png) |
 | [Model 8](Model_8.m)| 1 | sinusoidal | 25% | C:100 L:100 | 5.7047e-4 | 4.3368e-19 | [Image](Model_8.png) |
+| [Model 9](Model_9.m)| 2 | sinusoidal | 25% | C:100 L:100 | 3.1634e-6 | 1.5152e-20 | [Image](Model_9.png) |
+
+### Grapes
+
+####Model 1
+
+A model of 100 Capasitors and 100 Inductors was used.
+
+[Model 10](Model_10.m)
+
+<img src="error_type1_general.png">
+
+<img src="error_type1_extanded.png">
+
+####Model 2
+
+[Model 9](Model_9.m)
+
+####Model 3
+
+[Model 11](Model_11.m)
 
 ### The Paper can be downloaded here
 
