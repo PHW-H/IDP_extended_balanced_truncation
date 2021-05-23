@@ -44,7 +44,8 @@ A model of 100 Capasitors and 100 Inductors was used.
 
 The used model can be downloaded here:
 
-[Model 10](Model_10.m)
+| [Model 10](Model_10.m) | [Model 12](Model_12.m) | [Model 13](Model_13.m) | [Model 14](Model_14.m) | [Model 15](Model_15.m) |
+
 
 error generalised balanced:
 
