@@ -36,15 +36,21 @@ Port Hamiltonian model constructors:
 | [Model 8](Model_8.m)| 1 | sinusoidal | 25% | C:100 L:100 | 5.7047e-4 | 4.3368e-19 | [Image](Model_8.png) |
 | [Model 9](Model_9.m)| 2 | sinusoidal | 25% | C:100 L:100 | 3.1634e-6 | 1.5152e-20 | [Image](Model_9.png) |
 
-### Grapes
+### error Grapes
 
-####Model 1
+### error of Model 1
 
 A model of 100 Capasitors and 100 Inductors was used.
 
+The used model can be downloaded here:
+
 [Model 10](Model_10.m)
 
+error generalised balanced:
+
 <img src="error_type1_general.png">
+
+error extended balanced:
 
 <img src="error_type1_extanded.png">
 
