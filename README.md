@@ -7,15 +7,15 @@ This site contains the MATLAB code from the Integrated design project of P.H.W. 
 Here all MATLAB models used for the integration project can be found
 
 Main matlab code:
-- [Main Matlab Model]((https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/RLC_system_Pancras_version.mat)
+- [Main Matlab Model](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/RLC_system_Pancras_version.mat)
 
 Random model generator
-- [Random Generator]((https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Random_model_generator.mat)
+- [Random Generator](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Random_model_generator.mat)
 
 Port Hamiltonian model constructors:
 - [Model type 1](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Modeltype41.mat)
-- [Model type 2]((https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Modeltype42.mat)
-- [Model type 3]((https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Modeltype43.mat)
+- [Model type 2](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Modeltype42.mat)
+- [Model type 3](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Modeltype43.mat)
 
 
 ### Simulink Model 
