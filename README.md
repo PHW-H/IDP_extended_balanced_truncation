@@ -50,7 +50,7 @@ Port Hamiltonian model constructors:
 
 To obtain a graphical representation of the difference in error bound 5 models were created and their error bound is plotted. The plot shows the Error bound at different reductions: (5%, 10%, 15%, 20%,25%, 30%,... till 95%) for after applying Generalised balanced truncation (Red) and Extended Balanced truncation (Blue). All model consists of 100 Capacitors and 100 Inductors.
 
-The programme to create these models and plots can be downloaded here: [Graph_maker]((https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/plots_maken.mat)
+The programme to create these models and plots can be downloaded here: [Graph_maker](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/plots_maken.mat)
 
 ### error bound of Model type 1
 
