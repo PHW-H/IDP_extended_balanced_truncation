@@ -50,6 +50,8 @@ Port Hamiltonian model constructors:
 
 To obtain a graphical representation of the difference in error bound 5 models were created and their error bound is plotted. The plot shows the Error bound at different reductions: (5%, 10%, 15%, 20%,25%, 30%,... till 95%) for after applying generalised blanced trucation (Red) and Extanded Balanced trucation (Blue). All model consiste of 100 Capasitors and 100 Inductors.
 
+The programme to create these models and plots can be downloaded here:[Graphe maker](plots_maken.m)
+
 ### error bound of Model type 1
 
 The used model can be downloaded here:
