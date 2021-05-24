@@ -26,8 +26,8 @@ Port Hamiltonian model constructors:
 
 simulated Models of type 1
 
-| Model download | Model Type | input | Reduction |  Model dimensions | Deviation from original General | Deviation from original extended | Simulink result |
-| :---: | :---: | :---: | :---: | :--------------: | :--------------: | :-----: |
+| Model download | input | Reduction |  Model dimensions | Deviation from original General | Deviation from original extended | Simulink result |
+| :---: | :---: | :---: | :--------------: | :--------------: | :-----: |
 | [Model 1](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_1.mat)| step 50 | 25% | C:20 L:20 | 1.6685e-7 | 0 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_1.png) |
 | [Model 2](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_2.mat)| step 50 | 25% | C:40 L:40 | 2.1235e-5 | 0 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_2.png) |
 | [Model 3](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3.mat)| step 50 | 25% | C:60 L:60 | 2.1920e-5 | 5.4210e-20 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3.png) |
@@ -39,8 +39,8 @@ simulated Models of type 1
 
 simulated Models of type 2
 
-| Model download | Model Type | input | Reduction |  Model dimensions | Deviation from original General | Deviation from original extended | Simulink result |
-| :---: | :---: | :---: | :---: | :--------------: | :--------------: | :-----: |
+| Model download | input | Reduction |  Model dimensions | Deviation from original General | Deviation from original extended | Simulink result |
+| :---: | :---: | :---: | :--------------: | :--------------: | :-----: |
 | [Model 2_1](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_2_1.mat)| step 50 | 25% | C:20 L:20 | 1.3611e-05 | 1.3553e-20 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_2_1.png) |
 | [Model 2_2](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_2_2.mat)| step 50 | 25% | C:40 L:40 | 6.4766e-04 | 1.7381e-18 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_2_2.png) |
 | [Model 2_3](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_2_3.mat)| step 50 | 25% | C:60 L:60 | 0.0016 | 6.7769e-21 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_2_3.png) |
@@ -52,8 +52,8 @@ simulated Models of type 2
 
 simulated Models of type 3
 
-| Model download | Model Type | input | Reduction |  Model dimensions | Deviation from original General | Deviation from original extended | Simulink result |
-| :---: | :---: | :---: | :---: | :--------------: | :--------------: | :-----: |
+| Model download | input | Reduction |  Model dimensions | Deviation from original General | Deviation from original extended | Simulink result |
+| :---: | :---: | :---: | :--------------: | :--------------: | :-----: |
 | [Model 3_1](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_1.mat)| step 50 | 25% | C:20 L:20 | 3.9786 | 9.0366e-16 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_1.png) |
 | [Model 3_2](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_2.mat)| step 50 | 25% | C:40 L:40 | 0.3760 | 2.7756e-17 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_2.png) |
 | [Model 3_3](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_3.mat)| step 50 | 25% | C:60 L:60 | 0.1224 | 2.6646e-15 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_3.png) |
