@@ -89,3 +89,5 @@ The model used for creating this graph can be downloaded here:
 ### The Paper can be downloaded here
 
 [IDP by Pancras Hogendoorn](Reductionoflarge_scaleelectricalmodels.pdf)
+
+https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_1.mat
