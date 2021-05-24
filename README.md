@@ -74,7 +74,7 @@ error extended balanced:
 
 The model used for creating this graph can be downloaded here:
 
-| [Model 21](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_21.mat) | [Model 22](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_22.mat) | [Model 13](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_23.mat) | [Model 14](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_24.mat) | [Model 25](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_25.mat) |
+| [Model 21](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_21.mat) | [Model 22](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_22.mat) | [Model 23](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_23.mat) | [Model 24](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_24.mat) | [Model 25](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_25.mat) |
 
 <img src="model_2_all_error_rb.png">
 
@@ -82,7 +82,7 @@ The model used for creating this graph can be downloaded here:
 
 The model used for creating this graph can be downloaded here:
 
-| [Model 31](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_31.mat) | [Model 22](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_32.mat) | [Model 13](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_33.mat) | [Model 14](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_34.mat) | [Model 25](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_35.mat) |
+| [Model 31](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_31.mat) | [Model 32](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_32.mat) | [Model 33](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_33.mat) | [Model 34](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_34.mat) | [Model 35](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_35.mat) |
 
 <img src="model_3_all_error_rb.png">
 
