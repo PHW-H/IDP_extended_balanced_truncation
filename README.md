@@ -46,15 +46,15 @@ Port Hamiltonian model constructors:
 | [Model 7](Model_7.m)| 2 | sinusoidal | 50% | C:40 L:40 | 2.1920e-5 | 1.0842e-19 | [Image](Model_7.png) |
 | [Model 8](Model_8.m)| 2 | sinusoidal | 25% | C:100 L:100 | 5.7047e-4 | 4.3368e-19 | [Image](Model_8.png) |
 
-### error Grapes
+### Error bound
 
-### error of Model 1
+To obtain a graphical representation of the difference in error bound 5 models were created and their error bound is plotted. The plot shows the Error bound at different reductions: (5%, 10%, 15%, 20%,25%, 30%,... till 95%) for after applying generalised blanced trucation (Red) and Extanded Balanced trucation (Blue). All model consiste of 100 Capasitors and 100 Inductors.
 
-A model of 100 Capasitors and 100 Inductors was used.
+### error bound of Model type 1
 
 The used model can be downloaded here:
 
-| [Model 10](Model_10.m) | [Model 12](Model_12.m) | [Model 13](Model_13.m) | [Model 14](Model_14.m) | [Model 15](Model_15.m) |
+| [Model 11](Model_11.m) | [Model 12](Model_12.m) | [Model 13](Model_13.m) | [Model 14](Model_14.m) | [Model 15](Model_15.m) |
 
 
 error generalised balanced:
@@ -65,13 +65,24 @@ error extended balanced:
 
 <img src="error_type1_extanded.png">
 
-####Model 2
 
-[Model 9](Model_9.m)
+<img src="model_1_all_error_rb.png">
 
-####Model 3
+###Model 2
 
-[Model 11](Model_11.m)
+The model used for creating this graph can be downloaded here:
+
+| [Model 21](Model_21.m) | [Model 22](Model_22.m) | [Model 13](Model_23.m) | [Model 14](Model_24.m) | [Model 25](Model_25.m) |
+
+<img src="model_2_all_error_rb.png">
+
+###Model 3
+
+The model used for creating this graph can be downloaded here:
+
+| [Model 31](Model_31.m) | [Model 22](Model_32.m) | [Model 13](Model_33.m) | [Model 14](Model_34.m) | [Model 25](Model_35.m) |
+
+<img src="model_3_all_error_rb.png">
 
 ### The Paper can be downloaded here
 
