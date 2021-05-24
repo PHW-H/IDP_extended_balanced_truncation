@@ -49,14 +49,14 @@ Port Hamiltonian model constructors:
 
 | Model download | Model Type | input | Reduction |  Model dimensions | Deviation from original General | Deviation from original extended | Simulink result |
 | :---: | :---: | :---: | :---: | :--------------: | :--------------: | :-----: |
-| [Model 3_1](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_1.mat)| 3 | step 50 | 25% | C:20 L:20 | 1.6685e-7 | 0 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_1.png) |
-| [Model 3_2](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_2.mat)| 3 | step 50 | 25% | C:40 L:40 | 2.1235e-5 | 0 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_2.png) |
-| [Model 3_3](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_3.mat)| 3 | step 50 | 25% | C:60 L:60 | 2.1920e-5 | 5.4210e-20 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_3.png) |
-| [Model 3_4](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_4.mat)| 3 | sinusoidal | 25% | C:40 L:40 | 3.7724e-4 | 2.1684e-18 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_4.png) |
-| [Model 3_5](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_5.mat)| 3 | step 50 | 50% | C:20 L:20 | 4.3211e-4 | 5.7762e-13 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_5.png) |
-| [Model 3_6](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_6.mat)| 3 | step 50 | 50% | C:40 L:40 | 7.2875e-4 | 6.7763e-21 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_6.png) |
-| [Model 3_7](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_7.mat)| 3 | sinusoidal | 50% | C:40 L:40 | 2.1920e-5 | 1.0842e-19 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_7.png) |
-| [Model 3_8](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_8.mat)| 3 | sinusoidal | 25% | C:100 L:100 | 5.7047e-4 | 4.3368e-19 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_8.png) |
+| [Model 3_1](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_1.mat)| 3 | step 50 | 25% | C:20 L:20 | 3.9786 | 9.0366e-16 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_1.png) |
+| [Model 3_2](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_2.mat)| 3 | step 50 | 25% | C:40 L:40 | 0.3760 | 2.7756e-17 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_2.png) |
+| [Model 3_3](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_3.mat)| 3 | step 50 | 25% | C:60 L:60 | 0.1224 | 2.6646e-15 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_3.png) |
+| [Model 3_4](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_4.mat)| 3 | sinusoidal | 25% | C:40 L:40 | 0.0015 | 2.2276e-16 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_4.png) |
+| [Model 3_5](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_5.mat)| 3 | step 50 | 50% | C:20 L:20 | 4.9462 | 6.2172e-15 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_5.png) |
+| [Model 3_6](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_6.mat)| 3 | step 50 | 50% | C:40 L:40 | 0.0622 | 8.8818e-16 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_6.png) |
+| [Model 3_7](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_7.mat)| 3 | sinusoidal | 50% | C:40 L:40 | 27.9051 | 6.6169e-24 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_7.png) |
+| [Model 3_8](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_8.mat)| 3 | sinusoidal | 25% | C:100 L:100 | 0.0217 | 8.8818e-16 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3_8.png) |
 
 ### Error bound
 
