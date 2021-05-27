@@ -13,9 +13,9 @@ Random model generator
 - [Random Generator](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Random_model_generator.m)
 
 Port Hamiltonian model constructors:
-- [Model type 1](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Modeltype41.m)
-- [Model type 2](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Modeltype42.m)
-- [Model type 3](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Modeltype43.m)
+- [Model type 1](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Modeltype41.mat)
+- [Model type 2](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Modeltype42.mat)
+- [Model type 3](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Modeltype43.mat)
 
 
 ### Simulink Model 
