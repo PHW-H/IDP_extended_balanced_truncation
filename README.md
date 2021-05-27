@@ -87,7 +87,7 @@ error extended balanced:
 
 <img src="model_1_all_error_rb.png">
 
-###Model 2
+### Model 2
 
 The model used for creating this graph can be downloaded here:
 
@@ -95,7 +95,7 @@ The model used for creating this graph can be downloaded here:
 
 <img src="model_2_all_error_rb.png">
 
-###Model 3
+### Model 3
 
 The model used for creating this graph can be downloaded here:
 
