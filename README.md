@@ -26,20 +26,20 @@ Port Hamiltonian model constructors:
 
 simulated Models of type 1
 
-| Model download | input | Reduction |  Model dimensions | Deviation from original General | Deviation from original extended | Simulink result |
+| Model download | Reduced model download | Reduction |  Model dimensions | Deviation from original General | Deviation from original extended | Simulink result |
 | :---: | :---: | :---: | :--------------: | :--------------: | :-----: |
-| [Model 1](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_1.mat)| step 50 | 25% | C:20 L:20 | 1.6685e-7 | 0 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_1.png) |
-| [Model 2](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_2.mat)| step 50 | 25% | C:40 L:40 | 2.1235e-5 | 0 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_2.png) |
-| [Model 3](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3.mat)| step 50 | 25% | C:60 L:60 | 2.1920e-5 | 5.4210e-20 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3.png) |
-| [Model 4](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_4.mat)| sinusoidal | 25% | C:40 L:40 | 3.7724e-4 | 2.1684e-18 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_4.png) |
-| [Model 5](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_5.mat)| step 50 | 50% | C:20 L:20 | 4.3211e-4 | 5.7762e-13 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_5.png) |
-| [Model 6](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_6.mat)| step 50 | 50% | C:40 L:40 | 7.2875e-4 | 6.7763e-21 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_6.png) |
-| [Model 7](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_7.mat)| sinusoidal | 50% | C:40 L:40 | 2.1920e-5 | 1.0842e-19 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_7.png) |
-| [Model 8](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_8.mat)| sinusoidal | 25% | C:100 L:100 | 5.7047e-4 | 4.3368e-19 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_8.png) |
+| [Model 1](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_1.mat)| [Reduced_Model 1_1](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Reduced_models_1_1.mat) | 25% | C:20 L:20 | 1.6685e-7 | 0 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_1.png) |
+| [Model 2](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_2.mat)| [Reduced_Model 1_2](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Reduced_models_1_2.mat) | 25% | C:40 L:40 | 2.1235e-5 | 0 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_2.png) |
+| [Model 3](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3.mat)| [Reduced_Model 1_3](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Reduced_models_1_3.mat) | 25% | C:60 L:60 | 2.1920e-5 | 5.4210e-20 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_3.png) |
+| [Model 4](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_4.mat)| [Reduced_Model 1_4](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Reduced_models_1_4.mat) | 25% | C:40 L:40 | 3.7724e-4 | 2.1684e-18 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_4.png) |
+| [Model 5](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_5.mat)| [Reduced_Model 1_5](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Reduced_models_1_5.mat) | 50% | C:20 L:20 | 4.3211e-4 | 5.7762e-13 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_5.png) |
+| [Model 6](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_6.mat)| [Reduced_Model 1_6](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Reduced_models_1_6.mat) | 50% | C:40 L:40 | 7.2875e-4 | 6.7763e-21 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_6.png) |
+| [Model 7](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_7.mat)| [Reduced_Model 1_7](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Reduced_models_1_7.mat) | 50% | C:40 L:40 | 2.1920e-5 | 1.0842e-19 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_7.png) |
+| [Model 8](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_8.mat)| [Reduced_Model 1_8](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Reduced_models_1_8.mat) | 25% | C:100 L:100 | 5.7047e-4 | 4.3368e-19 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_8.png) |
 
 simulated Models of type 2
 
-| Model download | input | Reduction |  Model dimensions | Deviation from original General | Deviation from original extended | Simulink result |
+| Model download | Reduced model download | Reduction |  Model dimensions | Deviation from original General | Deviation from original extended | Simulink result |
 | :---: | :---: | :---: | :--------------: | :--------------: | :-----: |
 | [Model 2_1](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_2_1.mat)| [Reduced_Model 2_1](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Reduced_models_2_1.mat) | 25% | C:20 L:20 | 1.3611e-05 | 1.3553e-20 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_2_1.png) |
 | [Model 2_2](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_2_2.mat)| [Reduced_Model 2_2](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Reduced_models_2_2.mat) | 25% | C:40 L:40 | 6.4766e-04 | 1.7381e-18 | [Image](https://github.com/PHW-H/IDP_extended_balanced_truncation/raw/main/Model_2_2.png) |
