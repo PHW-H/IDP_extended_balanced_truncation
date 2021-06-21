@@ -105,4 +105,4 @@ The model used for creating this graph can be downloaded here:
 
 ### The Paper can be downloaded here
 
-[IDP by Pancras Hogendoorn](Reductionoflarge_scaleelectricalmodels (14).pdf)
+[IDP by Pancras Hogendoorn](Bachelor_Industrial engineering and Management_ 2021_PHWHogendoorn.pdf)
